@@ -29,3 +29,20 @@ hr.h-color{
 .sidebar li a{
     color: #fff;
 }
+
+/* For carousel pictures */
+.carousel-item{
+    height: 32rem;
+    color: white;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+}
+
+.container{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding-bottom: 50px;
+}
