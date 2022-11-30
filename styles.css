@@ -17,42 +17,6 @@ hr.h-color{
     background: white;
 }
 
-.sidebar li.active{
-    background: white;
-    border-radius: 8px;
-}
-
-.sidebar li.active a, .sidebar li.active a:hover{
-    color: black;
-}
-
-.sidebar li a{
-    color: #fff;
-}
-
-/* For carousel pictures */
-.carousel-item{
-    height: 32rem;
-    background: grey;
-    color: white;
-    position: relative;
-}
-
-.container{
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    padding-bottom: 50px;
-}
-
-.overlay-image{
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    top: 0;
-    background-position: center;
-    background-size: cover;
-    opacity: 0.5; /* may take out */
-}
+.item img {
+    width:100%
+  }
