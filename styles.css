@@ -1,9 +1,11 @@
+/* Only for home.html */
+
 body{
-    background: white;
+    background: #FEF6EB;
 }
 
 #side_nav{
-    background: black;
+    background: #BEB9B5;
     min-width: 250px;
     max-width: 250px;
 }
@@ -16,7 +18,3 @@ body{
 hr.h-color{
     background: white;
 }
-
-.item img {
-    width:100%
-  }
